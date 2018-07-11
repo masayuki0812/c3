@@ -149,6 +149,7 @@ c3_chart_internal_fn.getDefaultConfig = function () {
         // grid
         grid_x_show: false,
         grid_x_type: 'tick',
+        grid_x_ticks: 10,
         grid_x_lines: [],
         grid_y_show: false,
         // not used
